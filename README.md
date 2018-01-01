@@ -1,5 +1,4 @@
 # REDISFrequencyPartition
-Work In Progress
+Create Basic Partition Sort by Frequency of Initial Character of Search Term
 
-
-First Commit
+/End
